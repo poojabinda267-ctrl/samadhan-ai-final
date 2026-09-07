@@ -1,0 +1,7 @@
+{
+  "name": "Samadhan AI",
+  "description": "Clean, minimal AI assistant powered by Gemini. सिर्फ जवाब नहीं — समाधान।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
